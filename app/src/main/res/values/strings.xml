@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">X-change</string>
+    <string-array name="currency">
+        <item>Currencies:</item>
+        <item>BTC</item>
+        <item>ETH</item>
+    </string-array>
+    <string name="action_settings">Settings</string>
+</resources>
